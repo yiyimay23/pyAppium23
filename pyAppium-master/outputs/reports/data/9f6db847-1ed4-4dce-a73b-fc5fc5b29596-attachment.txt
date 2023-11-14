@@ -1,2 +1,0 @@
-'com.xkw.client'
-{'platformName': 'Android', 'newCommonTimeout': 500, 'skipServerInstallation': True, 'noReset': True, 'deviceName': 'D5F0218710007612', 'platform_version': '10', 'appPackage': "'com.xkw.client'", 'appActivity': 'com.zxxk.page.main.LauncherActivity', 'udid': 'D5F0218710007612', 'systemPort': 8200}

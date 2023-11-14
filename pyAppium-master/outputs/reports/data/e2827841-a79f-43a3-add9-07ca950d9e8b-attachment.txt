@@ -1,1 +1,0 @@
-{'platformName': 'Android', 'newCommonTimeout': 500, 'skipServerInstallation': True, 'noReset': True, 'deviceName': 'D5F0218710007612', 'platform_version': '10', 'app': 'C:\\study\\pythonT\\pyAppium-master\\app\\xuekewang.apk', 'appPackage': "'com.xkw.client'", 'appActivity': "'com.zxxk.page.main.LauncherActivity'", 'udid': 'D5F0218710007612', 'systemPort': 8200}

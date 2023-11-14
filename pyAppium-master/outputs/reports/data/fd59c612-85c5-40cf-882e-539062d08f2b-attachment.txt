@@ -1,8 +1,0 @@
-INFO     root:app_info.py:11 
-INFO     root:app_info.py:11 10
-
-INFO     root:app_info.py:11 package: name='com.xkw.client' versionCode='51' versionName='3.0.18' compileSdkVersion='33' compileSdkVersionCodename='13'
-
-INFO     root:app_info.py:11 launchable-activity: name='com.zxxk.page.main.LauncherActivity'  label='' icon=''
-
-WARNING  urllib3.connectionpool:connectionpool.py:823 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020A4D376460>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session

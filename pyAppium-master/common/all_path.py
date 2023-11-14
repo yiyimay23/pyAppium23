@@ -1,6 +1,4 @@
 # _*_coding:utf-8 _*_
-# @Time　　:2021/6/19 22:50
-# @Author　 : king
 # @File　　  :all_path.py
 # @Software  :PyCharm
 import os

@@ -6,10 +6,11 @@ import logging
 from appium import webdriver
 from common.all_path import configPath
 import yaml
-import os
+# import os
 
 
-from common.app_info import get_devices_version, app_path, get_app_launchable_activity, get_app_package_name
+from common.app_info import get_devices_version, get_app_launchable_activity, get_app_package_name
+# from common.app_info import app_path
 
 from common.appium_auto_server import open_appium
 
