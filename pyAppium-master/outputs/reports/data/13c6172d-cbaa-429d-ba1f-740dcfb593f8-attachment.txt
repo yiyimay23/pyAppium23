@@ -1,0 +1,28 @@
+INFO     root:app_info.py:13 
+INFO     root:app_info.py:13 7.1.2
+
+INFO     root:app_info.py:68 get_devices_version7.1.2
+
+INFO     root:app_info.py:20 ['xuekewang.apk']
+INFO     root:app_info.py:20 ['xuekewang.apk']
+INFO     root:app_info.py:13 package: name='com.xkw.client' versionCode='51' versionName='3.0.18' compileSdkVersion='33' compileSdkVersionCodename='13'
+
+INFO     root:app_info.py:30 get_app_package_namepackage: name='com.xkw.client' versionCode='51' versionName='3.0.18' compileSdkVersion='33' compileSdkVersionCodename='13'
+
+INFO     root:app_info.py:20 ['xuekewang.apk']
+INFO     root:app_info.py:13 launchable-activity: name='com.zxxk.page.main.LauncherActivity'  label='' icon=''
+
+INFO     root:app_info.py:41 get_app_launchable_activitylaunchable-activity: name='com.zxxk.page.main.LauncherActivity'  label='' icon=''
+
+INFO     root:app_info.py:45 ['name', "'com.zxxk.page.main.LauncherActivity'"]
+WARNING  urllib3.connectionpool:connectionpool.py:823 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A55E0CAC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+INFO     root:basePage.py:33 同意协议 页面开始查找元素('id', 'com.xkw.client:id/agree_yes')
+INFO     root:basePage.py:36 同意协议 页面查找元素('id', 'com.xkw.client:id/agree_yes')成功！
+INFO     root:basePage.py:61 同意协议 页面点击元素('id', 'com.xkw.client:id/agree_yes')
+INFO     root:basePage.py:63 同意协议 页面点击元素('id', 'com.xkw.client:id/agree_yes')成功！
+INFO     root:basePage.py:105 发现 页面开始查找元素 ('id', 'com.xkw.client:id/discover_search_box')
+INFO     root:basePage.py:107 发现 页面查找元素 ('id', 'com.xkw.client:id/discover_search_box')成功！
+INFO     root:basePage.py:133 开始获取设备屏幕大小。
+INFO     root:basePage.py:137 获取设备屏幕大小完成。(900, 1600)
+INFO     root:basePage.py:179 首页 页面开始进行上滑
+INFO     root:basePage.py:181 首页 页面开始上滑完成。

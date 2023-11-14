@@ -1,0 +1,1 @@
+{"uuid": "ac5e89f1-76af-4a75-a8f1-9a0bb228eec6", "befores": [{"name": "device", "status": "passed", "start": 1697643174547, "stop": 1697643174548}], "afters": [{"name": "device::0", "status": "passed", "start": 1697643191207, "stop": 1697643191207}], "start": 1697643174547, "stop": 1697643191207}

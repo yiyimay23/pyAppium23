@@ -1,0 +1,234 @@
+{
+  "uid" : "79660f948225c2ed",
+  "name" : "登录127.0.0.1:62001",
+  "fullName" : "466_testcase.test_login.TestLogin#test_login",
+  "historyId" : "f42eb8fa339315519550404bc769b4e1",
+  "time" : {
+    "start" : 1697705610118,
+    "stop" : 1697705646660,
+    "duration" : 36542
+  },
+  "description" : "用户正常登录",
+  "descriptionHtml" : "<p>用户正常登录</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <testcase.test_login.TestLogin object at 0x0000025C1C61A3A0>\ncommon_driver = <pageViwe.loginPage.LoginPage object at 0x0000025C1C63B310>\ndevice = {'device': '127.0.0.1:62001', 'platform_version': '7.1.2', 'server_port': 4723, 'system_port': 8200}\n\n    @allure.story(\"正常登录\")\n    @allure.description(\"用户正常登录\")  # 用例的描述\n    @allure.severity(allure.severity_level.BLOCKER)\n    def test_login(self, common_driver, device):\n        allure.dynamic.title(\"登录\" + device[\"device\"])\n        common_driver.login('XXX', 'XXX')\n>       common_driver.result_assert(common_driver.get_username(), \"xkw_03314932\", '用户正常登录')\n\ntestcase\\test_login.py:27: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <pageViwe.loginPage.LoginPage object at 0x0000025C1C63B310>, res = None\nexpected = 'xkw_03314932', doc = '用户正常登录'\n\n    def result_assert(self, res, expected, doc=''):\n        try:\n>           assert res == expected\nE           AssertionError\n\npageViwe\\basePage.py:219: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1697705564854,
+      "stop" : 1697705564854,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "用户正常登录",
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <testcase.test_login.TestLogin object at 0x0000025C1C61A3A0>\ncommon_driver = <pageViwe.loginPage.LoginPage object at 0x0000025C1C63B310>\ndevice = {'device': '127.0.0.1:62001', 'platform_version': '7.1.2', 'server_port': 4723, 'system_port': 8200}\n\n    @allure.story(\"正常登录\")\n    @allure.description(\"用户正常登录\")  # 用例的描述\n    @allure.severity(allure.severity_level.BLOCKER)\n    def test_login(self, common_driver, device):\n        allure.dynamic.title(\"登录\" + device[\"device\"])\n        common_driver.login('XXX', 'XXX')\n>       common_driver.result_assert(common_driver.get_username(), \"xkw_03314932\", '用户正常登录')\n\ntestcase\\test_login.py:27: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <pageViwe.loginPage.LoginPage object at 0x0000025C1C63B310>, res = None\nexpected = 'xkw_03314932', doc = '用户正常登录'\n\n    def result_assert(self, res, expected, doc=''):\n        try:\n>           assert res == expected\nE           AssertionError\n\npageViwe\\basePage.py:219: AssertionError",
+    "steps" : [ {
+      "name" : "我的页面，点击切换到我的页面",
+      "time" : {
+        "start" : 1697705610118,
+        "stop" : 1697705612774,
+        "duration" : 2656
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "我的页面，点击登录",
+      "time" : {
+        "start" : 1697705612774,
+        "stop" : 1697705614630,
+        "duration" : 1856
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "我的_登录页面_切换到用户密码登录",
+      "time" : {
+        "start" : 1697705614630,
+        "stop" : 1697705616330,
+        "duration" : 1700
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "我的_账号密码登录页面，输入账号:XXX",
+      "time" : {
+        "start" : 1697705616330,
+        "stop" : 1697705618940,
+        "duration" : 2610
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "我的_账号密码登录页面，输入密码:XXX",
+      "time" : {
+        "start" : 1697705618940,
+        "stop" : 1697705620601,
+        "duration" : 1661
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "我的_账号密码登录页面_点击提交登录",
+      "time" : {
+        "start" : 1697705620601,
+        "stop" : 1697705621265,
+        "duration" : 664
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "获取用户名",
+      "time" : {
+        "start" : 1697705621265,
+        "stop" : 1697705645005,
+        "duration" : 23740
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "964fff9c794aa9c6",
+        "name" : "我的_用户名",
+        "source" : "964fff9c794aa9c6.png",
+        "type" : "image/png",
+        "size" : 35947
+      }, {
+        "uid" : "d1e885910f6a4dfb",
+        "name" : "我的_用户名",
+        "source" : "d1e885910f6a4dfb.png",
+        "type" : "image/png",
+        "size" : 35177
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6cc9d64d24baa2ef",
+      "name" : "用户正常登录",
+      "source" : "6cc9d64d24baa2ef.png",
+      "type" : "image/png",
+      "size" : 35215
+    }, {
+      "uid" : "6e4e75316ad25ff2",
+      "name" : "log",
+      "source" : "6e4e75316ad25ff2.txt",
+      "type" : "text/plain",
+      "size" : 5227
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "正常登录"
+  }, {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "466_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CHVCFJK"
+  }, {
+    "name" : "thread",
+    "value" : "25112-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "466_testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "79660f948225c2ed.json",
+  "parameterValues" : [ ]
+}

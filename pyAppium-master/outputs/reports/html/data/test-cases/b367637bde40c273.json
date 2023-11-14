@@ -1,0 +1,92 @@
+{
+  "uid" : "b367637bde40c273",
+  "name" : "test_swipe",
+  "fullName" : "454_testcase.test_login.TestLogin#test_swipe",
+  "historyId" : "9aa8bc8b143612c5f0b0dea7c4a95479",
+  "time" : {
+    "start" : 1697639880460,
+    "stop" : 1697639880460,
+    "duration" : 0
+  },
+  "description" : "首页上滑",
+  "descriptionHtml" : "<p>首页上滑</p>\n",
+  "status" : "broken",
+  "statusMessage" : "IndexError: list index out of range",
+  "statusTrace" : "cmdopt = \"{'platform_version': '7.1.2', 'server_port': 4723, 'system_port': 8200, 'device': '127.0.0.1:62001'}\"\n\n    @pytest.fixture(scope='session')\n    def common_driver(cmdopt):\n        global driver\n        base_driver = BaseDriver(eval(cmdopt))\n>       driver = base_driver.base_driver()\n\ntestcase\\conftest.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ncommon\\base_driver.py:40: in base_driver\n    desired_caps['appActivity'] = get_app_launchable_activity()\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n    def get_app_launchable_activity() -> str:\n        cmd = \"aapt dump badging {} | findstr launchable\".format(os.path.join(appPath, get_app_name(appPath)))\n        result = exec_cmd(cmd)\n        if \"launchable\" in result:\n>           launchable_activity = result.strip().split(\" \")[2].split('=')[1].replace(\"label\", '')\nE           IndexError: list index out of range\n\ncommon\\app_info.py:39: IndexError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1697639880461,
+      "stop" : 1697639880462,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "story",
+    "value" : "首页上滑"
+  }, {
+    "name" : "parentSuite",
+    "value" : "454_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CHVCFJK"
+  }, {
+    "name" : "thread",
+    "value" : "12864-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "454_testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b367637bde40c273.json",
+  "parameterValues" : [ ]
+}

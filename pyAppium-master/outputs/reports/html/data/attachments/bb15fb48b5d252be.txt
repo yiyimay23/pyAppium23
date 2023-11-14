@@ -1,0 +1,88 @@
+INFO     root:basePage.py:31 我的按钮 页面开始查找元素('id', 'com.xkw.client:id/mine_text')
+INFO     root:basePage.py:34 我的按钮 页面查找元素('id', 'com.xkw.client:id/mine_text')成功！
+INFO     root:basePage.py:59 我的按钮 页面点击元素('id', 'com.xkw.client:id/mine_text')
+INFO     root:basePage.py:61 我的按钮 页面点击元素('id', 'com.xkw.client:id/mine_text')成功！
+INFO     root:basePage.py:31 我的_登录 页面开始查找元素('id', 'com.xkw.client:id/mine_username')
+INFO     root:basePage.py:34 我的_登录 页面查找元素('id', 'com.xkw.client:id/mine_username')成功！
+INFO     root:basePage.py:59 我的_登录 页面点击元素('id', 'com.xkw.client:id/mine_username')
+INFO     root:basePage.py:61 我的_登录 页面点击元素('id', 'com.xkw.client:id/mine_username')成功！
+INFO     root:basePage.py:31 我的_登录_密码登录 页面开始查找元素('id', 'com.xkw.client:id/login_mobile_use_password')
+ERROR    root:basePage.py:37 我的_登录_密码登录 定位元素 ('id', 'com.xkw.client:id/login_mobile_use_password')出现未知错误！ 错误为：Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:33:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:53:10)
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_密码登录20231023231455.png
+INFO     root:basePage.py:39 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_密码登录20231023231455.png
+INFO     root:basePage.py:59 我的_登录_密码登录 页面点击元素('id', 'com.xkw.client:id/login_mobile_use_password')
+ERROR    root:basePage.py:63 我的_登录_密码登录 点击元素 ('id', 'com.xkw.client:id/login_mobile_use_password')失败！ 错误为：'NoneType' object has no attribute 'click'
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_密码登录20231023231456.png
+INFO     root:basePage.py:65 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_密码登录20231023231456.png
+INFO     root:basePage.py:31 登录_用户名输入框 页面开始查找元素('id', 'com.xkw.client:id/login_password_username')
+ERROR    root:basePage.py:37 登录_用户名输入框 定位元素 ('id', 'com.xkw.client:id/login_password_username')出现未知错误！ 错误为：Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:33:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:53:10)
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\登录_用户名输入框20231023231517.png
+INFO     root:basePage.py:39 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\登录_用户名输入框20231023231517.png
+INFO     root:basePage.py:73 登录_用户名输入框 页面输入框输入XXX
+ERROR    root:basePage.py:78 登录_用户名输入框 定位元素 ('id', 'com.xkw.client:id/login_password_username')出现未知错误！ 错误为：'NoneType' object has no attribute 'clear'
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\登录_用户名输入框20231023231518.png
+INFO     root:basePage.py:80 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\登录_用户名输入框20231023231518.png
+INFO     root:basePage.py:31 登录_密码输入框 页面开始查找元素('id', 'com.xkw.client:id/login_password_password')
+ERROR    root:basePage.py:37 登录_密码输入框 定位元素 ('id', 'com.xkw.client:id/login_password_password')出现未知错误！ 错误为：Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:33:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:53:10)
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\登录_密码输入框20231023231539.png
+INFO     root:basePage.py:39 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\登录_密码输入框20231023231539.png
+INFO     root:basePage.py:73 登录_密码输入框 页面输入框输入XXX
+ERROR    root:basePage.py:78 登录_密码输入框 定位元素 ('id', 'com.xkw.client:id/login_password_password')出现未知错误！ 错误为：'NoneType' object has no attribute 'clear'
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\登录_密码输入框20231023231539.png
+INFO     root:basePage.py:80 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\登录_密码输入框20231023231539.png
+INFO     root:basePage.py:31 我的_登录_提交登录 页面开始查找元素('id', 'com.xkw.client:id/login_password_login')
+ERROR    root:basePage.py:37 我的_登录_提交登录 定位元素 ('id', 'com.xkw.client:id/login_password_login')出现未知错误！ 错误为：Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:33:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:53:10)
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_提交登录20231023231600.png
+INFO     root:basePage.py:39 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_提交登录20231023231600.png
+INFO     root:basePage.py:59 我的_登录_提交登录 页面点击元素('id', 'com.xkw.client:id/login_password_login')
+ERROR    root:basePage.py:63 我的_登录_提交登录 点击元素 ('id', 'com.xkw.client:id/login_password_login')失败！ 错误为：'NoneType' object has no attribute 'click'
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_提交登录20231023231601.png
+INFO     root:basePage.py:65 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\我的_登录_提交登录20231023231601.png
+INFO     root:basePage.py:31 我的_用户名 页面开始查找元素('id', 'com.xkw.client:id/mine_username')
+ERROR    root:basePage.py:37 我的_用户名 定位元素 ('id', 'com.xkw.client:id/mine_username')出现未知错误！ 错误为：Message: An unknown server-side error occurred while processing the command. Original error: 'POST /element' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: 'POST /element' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+    at UIA2Proxy.command (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:274:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.helpers.doFindElementOrEls (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-driver\lib\commands\find.js:32:12)
+    at doFind (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:36:17)
+    at wrappedCondFn (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\timeout.js:151:12)
+    at spin (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\asyncbox\lib\asyncbox.js:138:20)
+    at waitForCondition (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\asyncbox\lib\asyncbox.js:155:10)
+    at AndroidUiautomator2Driver.implicitWaitForCondition (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\timeout.js:153:10)
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:60:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:33:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\YM520\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\basedriver\commands\find.js:53:10)
+INFO     root:basePage.py:205 开始进行截图..

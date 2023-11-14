@@ -1,0 +1,160 @@
+{
+  "uid" : "21b49d1c12f3f5a6",
+  "name" : "首页上滑127.0.0.1:62001",
+  "fullName" : "414_testcase.test_login.TestLogin#test_swipe",
+  "historyId" : "0197500e72a0e672ee71957adf5751b9",
+  "time" : {
+    "start" : 1697704143611,
+    "stop" : 1697704163966,
+    "duration" : 20355
+  },
+  "description" : "首页上滑",
+  "descriptionHtml" : "<p>首页上滑</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1697704103547,
+      "stop" : 1697704103547,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "首页上滑",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "同意协议",
+      "time" : {
+        "start" : 1697704143611,
+        "stop" : 1697704146402,
+        "duration" : 2791
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "等待发现页面",
+      "time" : {
+        "start" : 1697704148403,
+        "stop" : 1697704160675,
+        "duration" : 12272
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "969c73d16d50a78b",
+        "name" : "发现",
+        "source" : "969c73d16d50a78b.png",
+        "type" : "image/png",
+        "size" : 469888
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "上滑操作",
+      "time" : {
+        "start" : 1697704160675,
+        "stop" : 1697704163966,
+        "duration" : 3291
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7ae7679259dd180f",
+        "name" : "首页",
+        "source" : "7ae7679259dd180f.png",
+        "type" : "image/png",
+        "size" : 724979
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "73cb9b1d7076abba",
+      "name" : "log",
+      "source" : "73cb9b1d7076abba.txt",
+      "type" : "text/plain",
+      "size" : 7499
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "首页上滑"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "414_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CHVCFJK"
+  }, {
+    "name" : "thread",
+    "value" : "10560-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "414_testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21b49d1c12f3f5a6.json",
+  "parameterValues" : [ ]
+}

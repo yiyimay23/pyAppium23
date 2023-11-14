@@ -1,0 +1,151 @@
+{
+  "uid" : "18303af421627edd",
+  "name" : "首页上滑D5F0218710007612",
+  "fullName" : "271_testcase.test_login.TestLogin#test_swipe",
+  "historyId" : "1eab8b7349770643133fc9dac414c091",
+  "time" : {
+    "start" : 1699588072600,
+    "stop" : 1699588100645,
+    "duration" : 28045
+  },
+  "description" : "首页上滑",
+  "descriptionHtml" : "<p>首页上滑</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "首页上滑",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "同意协议",
+      "time" : {
+        "start" : 1699588072600,
+        "stop" : 1699588094805,
+        "duration" : 22205
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9ccbb373c36eb9d7",
+        "name" : "同意协议",
+        "source" : "9ccbb373c36eb9d7.png",
+        "type" : "image/png",
+        "size" : 551593
+      }, {
+        "uid" : "506d0d385056bae4",
+        "name" : "同意协议",
+        "source" : "506d0d385056bae4.png",
+        "type" : "image/png",
+        "size" : 551593
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "等待发现页面",
+      "time" : {
+        "start" : 1699588096816,
+        "stop" : 1699588098686,
+        "duration" : 1870
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "上滑操作",
+      "time" : {
+        "start" : 1699588098686,
+        "stop" : 1699588100645,
+        "duration" : 1959
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "fa904d7929e40fac",
+      "name" : "log",
+      "source" : "fa904d7929e40fac.txt",
+      "type" : "text/plain",
+      "size" : 2682
+    }, {
+      "uid" : "8a107937a9d1bb67",
+      "name" : "stderr",
+      "source" : "8a107937a9d1bb67.txt",
+      "type" : "text/plain",
+      "size" : 167
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "首页上滑"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "271_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CHVCFJK"
+  }, {
+    "name" : "thread",
+    "value" : "29132-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "271_testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18303af421627edd.json",
+  "parameterValues" : [ ]
+}

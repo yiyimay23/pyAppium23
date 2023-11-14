@@ -1,0 +1,111 @@
+{
+  "uid" : "5f5a333e11c30ff2",
+  "name" : "test_swipe",
+  "fullName" : "13_testcase.test_login.TestLogin#test_swipe",
+  "historyId" : "a608d60c85a0a87df392d031f16eaca7",
+  "time" : {
+    "start" : 1697643045526,
+    "stop" : 1697643045526,
+    "duration" : 0
+  },
+  "description" : "首页上滑",
+  "descriptionHtml" : "<p>首页上滑</p>\n",
+  "status" : "broken",
+  "statusMessage" : "NameError: 未获取到launchable activity。",
+  "statusTrace" : "cmdopt = \"{'platform_version': '7.1.2', 'server_port': 4723, 'system_port': 8200, 'device': '127.0.0.1:62001'}\"\n\n    @pytest.fixture(scope='session')\n    def common_driver(cmdopt):\n        global driver\n        base_driver = BaseDriver(eval(cmdopt))\n>       driver = base_driver.base_driver()\n\ntestcase\\conftest.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ncommon\\base_driver.py:40: in base_driver\n    desired_caps['appActivity'] = get_app_launchable_activity()\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n    def get_app_launchable_activity() -> str:\n        cmd = \"aapt dump badging {} | findstr launchable\".format(os.path.join(appPath, get_app_name(appPath)))\n        result = exec_cmd(cmd)\n        if \"launchable\" in result:\n            launchable_parts = result.strip().split(\" \")[2].split('=')\n            logging.info(launchable_parts)\n            if len(launchable_parts) > 1:\n                launchable_activity = launchable_parts[1].replace(\"label\", '')\n                return launchable_activity\n            else:\n>               raise NameError(\"未获取到launchable activity。\")\nE               NameError: 未获取到launchable activity。\n\ncommon\\app_info.py:45: NameError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1697643045528,
+      "stop" : 1697643045528,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "首页上滑",
+    "status" : "broken",
+    "statusMessage" : "NameError: 未获取到launchable activity。",
+    "statusTrace" : "cmdopt = \"{'platform_version': '7.1.2', 'server_port': 4723, 'system_port': 8200, 'device': '127.0.0.1:62001'}\"\n\n    @pytest.fixture(scope='session')\n    def common_driver(cmdopt):\n        global driver\n        base_driver = BaseDriver(eval(cmdopt))\n>       driver = base_driver.base_driver()\n\ntestcase\\conftest.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ncommon\\base_driver.py:40: in base_driver\n    desired_caps['appActivity'] = get_app_launchable_activity()\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n    def get_app_launchable_activity() -> str:\n        cmd = \"aapt dump badging {} | findstr launchable\".format(os.path.join(appPath, get_app_name(appPath)))\n        result = exec_cmd(cmd)\n        if \"launchable\" in result:\n            launchable_parts = result.strip().split(\" \")[2].split('=')\n            logging.info(launchable_parts)\n            if len(launchable_parts) > 1:\n                launchable_activity = launchable_parts[1].replace(\"label\", '')\n                return launchable_activity\n            else:\n>               raise NameError(\"未获取到launchable activity。\")\nE               NameError: 未获取到launchable activity。\n\ncommon\\app_info.py:45: NameError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ed678903550f817f",
+      "name" : "log",
+      "source" : "ed678903550f817f.txt",
+      "type" : "text/plain",
+      "size" : 33
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "首页上滑"
+  }, {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "13_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CHVCFJK"
+  }, {
+    "name" : "thread",
+    "value" : "18180-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "13_testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "5f5a333e11c30ff2.json",
+  "parameterValues" : [ ]
+}

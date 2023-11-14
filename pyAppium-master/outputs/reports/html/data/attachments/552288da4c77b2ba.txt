@@ -1,0 +1,9 @@
+INFO     root:app_info.py:11   TCP    127.0.0.1:51806        127.0.0.1:4725         TIME_WAIT       0
+  TCP    127.0.0.1:52118        127.0.0.1:4725         TIME_WAIT       0
+
+INFO     root:app_info.py:11 
+INFO     root:app_info.py:11 10
+
+INFO     root:app_info.py:11 package: name='com.xkw.client' versionCode='51' versionName='3.0.18' compileSdkVersion='33' compileSdkVersionCodename='13'
+
+INFO     root:app_info.py:11 launchable-activity: name='com.zxxk.page.main.LauncherActivity'  label='' icon=''

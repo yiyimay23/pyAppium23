@@ -1,0 +1,42 @@
+INFO     root:basePage.py:31 我的按钮 页面开始查找元素('id', 'com.xkw.client:id/mine_text')
+INFO     root:basePage.py:34 我的按钮 页面查找元素('id', 'com.xkw.client:id/mine_text')成功！
+INFO     root:basePage.py:59 我的按钮 页面点击元素('id', 'com.xkw.client:id/mine_text')
+INFO     root:basePage.py:61 我的按钮 页面点击元素('id', 'com.xkw.client:id/mine_text')成功！
+INFO     root:basePage.py:31 我的_登录 页面开始查找元素('id', 'com.xkw.client:id/mine_username')
+INFO     root:basePage.py:34 我的_登录 页面查找元素('id', 'com.xkw.client:id/mine_username')成功！
+INFO     root:basePage.py:59 我的_登录 页面点击元素('id', 'com.xkw.client:id/mine_username')
+INFO     root:basePage.py:61 我的_登录 页面点击元素('id', 'com.xkw.client:id/mine_username')成功！
+INFO     root:basePage.py:31 我的_登录_密码登录 页面开始查找元素('id', 'com.xkw.client:id/login_mobile_use_password')
+INFO     root:basePage.py:34 我的_登录_密码登录 页面查找元素('id', 'com.xkw.client:id/login_mobile_use_password')成功！
+INFO     root:basePage.py:59 我的_登录_密码登录 页面点击元素('id', 'com.xkw.client:id/login_mobile_use_password')
+INFO     root:basePage.py:61 我的_登录_密码登录 页面点击元素('id', 'com.xkw.client:id/login_mobile_use_password')成功！
+INFO     root:basePage.py:31 登录_用户名输入框 页面开始查找元素('id', 'com.xkw.client:id/login_password_username')
+INFO     root:basePage.py:34 登录_用户名输入框 页面查找元素('id', 'com.xkw.client:id/login_password_username')成功！
+INFO     root:basePage.py:73 登录_用户名输入框 页面输入框输入XXX
+INFO     root:basePage.py:76 登录_用户名输入框 页面输入框输入XXX成功！
+INFO     root:basePage.py:31 登录_密码输入框 页面开始查找元素('id', 'com.xkw.client:id/login_password_password')
+INFO     root:basePage.py:34 登录_密码输入框 页面查找元素('id', 'com.xkw.client:id/login_password_password')成功！
+INFO     root:basePage.py:73 登录_密码输入框 页面输入框输入XXX
+INFO     root:basePage.py:76 登录_密码输入框 页面输入框输入XXX成功！
+INFO     root:basePage.py:31 我的_登录_提交登录 页面开始查找元素('id', 'com.xkw.client:id/login_password_login')
+INFO     root:basePage.py:34 我的_登录_提交登录 页面查找元素('id', 'com.xkw.client:id/login_password_login')成功！
+INFO     root:basePage.py:59 我的_登录_提交登录 页面点击元素('id', 'com.xkw.client:id/login_password_login')
+INFO     root:basePage.py:61 我的_登录_提交登录 页面点击元素('id', 'com.xkw.client:id/login_password_login')成功！
+INFO     root:basePage.py:31 我的_用户名 页面开始查找元素('id', 'com.xkw.client:id/mine_username')
+ERROR    root:basePage.py:37 我的_用户名 定位元素 ('id', 'com.xkw.client:id/mine_username')出现未知错误！ 错误为：Message: 
+
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\我的_用户名20231110114625.png
+INFO     root:basePage.py:39 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\我的_用户名20231110114625.png
+INFO     root:basePage.py:116 我的_用户名 页面开始获取 ('id', 'com.xkw.client:id/mine_username') 文本
+ERROR    root:basePage.py:121 我的_用户名 定位元素 ('id', 'com.xkw.client:id/mine_username')出现未知错误！ 错误为：'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\study\pythonT\pyAppium-master\pageViwe\basePage.py", line 117, in get_text
+    text = ele.text
+AttributeError: 'NoneType' object has no attribute 'text'
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\我的_用户名20231110114625.png
+INFO     root:basePage.py:123 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\我的_用户名20231110114625.png
+INFO     root:basePage.py:205 开始进行截图..
+INFO     root:basePage.py:209 截图成功！图片名称为:C:\study\pythonT\pyAppium-master\outputs\picture\用户正常登录20231110114626.png
+INFO     root:basePage.py:220 截图成功，图片为：C:\study\pythonT\pyAppium-master\outputs\picture\用户正常登录20231110114626.png

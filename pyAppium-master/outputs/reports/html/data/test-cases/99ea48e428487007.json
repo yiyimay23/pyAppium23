@@ -1,0 +1,205 @@
+{
+  "uid" : "99ea48e428487007",
+  "name" : "首页上滑D5F7N18327001530",
+  "fullName" : "321_testcase.test_login.TestLogin#test_swipe",
+  "historyId" : "279f74dab880f54174042161405ed6c5",
+  "time" : {
+    "start" : 1699587926762,
+    "stop" : 1699587955306,
+    "duration" : 28544
+  },
+  "description" : "首页上滑",
+  "descriptionHtml" : "<p>首页上滑</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1699587909238,
+      "stop" : 1699587909238,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1699587909238,
+      "stop" : 1699587909238,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1699587909238,
+      "stop" : 1699587909238,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "首页上滑",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "同意协议",
+      "time" : {
+        "start" : 1699587926762,
+        "stop" : 1699587950281,
+        "duration" : 23519
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e764d4c21f60b083",
+        "name" : "同意协议",
+        "source" : "e764d4c21f60b083.png",
+        "type" : "image/png",
+        "size" : 556851
+      }, {
+        "uid" : "bbe0c37c0fa69d01",
+        "name" : "同意协议",
+        "source" : "bbe0c37c0fa69d01.png",
+        "type" : "image/png",
+        "size" : 556788
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "等待发现页面",
+      "time" : {
+        "start" : 1699587952285,
+        "stop" : 1699587953316,
+        "duration" : 1031
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "上滑操作",
+      "time" : {
+        "start" : 1699587953316,
+        "stop" : 1699587955306,
+        "duration" : 1990
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "bddb4f5c37876ae3",
+      "name" : "log",
+      "source" : "bddb4f5c37876ae3.txt",
+      "type" : "text/plain",
+      "size" : 2748
+    }, {
+      "uid" : "a44d0a65deb65feb",
+      "name" : "stderr",
+      "source" : "a44d0a65deb65feb.txt",
+      "type" : "text/plain",
+      "size" : 167
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "首页上滑"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "登录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "321_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-CHVCFJK"
+  }, {
+    "name" : "thread",
+    "value" : "28984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "321_testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "198d4865df5bdbc6",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command ''C:\\\\Program Files (x86)\\\\Android\\\\android-sdk\\\\platform-tools\\\\adb.exe' -P 5037 -s D5F0218710007612 shell pm install /data/local/tmp/appium_cache/4a3611f83607e4a76c33e4d83ef4a4b6e0b619a6.apk' timed out after 90000ms'. Try to increase the 90000ms adb execution timeout represented by 'androidInstallTimeout' capability",
+      "time" : {
+        "start" : 1699518562125,
+        "stop" : 1699518562125,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99ea48e428487007.json",
+  "parameterValues" : [ ]
+}

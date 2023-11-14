@@ -1,0 +1,2511 @@
+[ {
+  "uid" : "e5880281af7c311",
+  "name" : "登录D5F7N18327001530",
+  "time" : {
+    "start" : 1699587955313,
+    "stop" : 1699587986677,
+    "duration" : 31364
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f5dacf46e4f88db6",
+  "name" : "首页上滑T9Y0221C09002076",
+  "time" : {
+    "start" : 1699540496024,
+    "stop" : 1699540522244,
+    "duration" : 26220
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "520cfbeb1939a265",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697642124355,
+    "stop" : 1697642124355,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "226d8182dd214cee",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699510108749,
+    "stop" : 1699510108749,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "15fd5ab036aebd57",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699533969688,
+    "stop" : 1699533969688,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "658da28dc3b8822a",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501394965,
+    "stop" : 1699501394965,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "dac4d38ad2f3e59a",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699524090104,
+    "stop" : 1699524090104,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "83ff0dc08f23e35f",
+  "name" : "登录D5F0218710007612",
+  "time" : {
+    "start" : 1699587776659,
+    "stop" : 1699587808304,
+    "duration" : 31645
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "3d45549be33de5e3",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699524080813,
+    "stop" : 1699524080813,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b3e3d6eb81699292",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1698074106713,
+    "stop" : 1698074141267,
+    "duration" : 34554
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "af0ed8ae2116a536",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699529863859,
+    "stop" : 1699529863859,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "60fd5981baafc7de",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699514331279,
+    "stop" : 1699514331279,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6b3e4d7dac6c23b4",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699535034901,
+    "stop" : 1699535034901,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7eb87944fb7f0c5e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699515267080,
+    "stop" : 1699515267080,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a164792d575ead30",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699530079423,
+    "stop" : 1699530079423,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a72976a008e65b78",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697642584056,
+    "stop" : 1697642584056,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "9bb24f715006d193",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697643046422,
+    "stop" : 1697643046422,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f911db5654dde878",
+  "name" : "登录D5F0218710007612",
+  "time" : {
+    "start" : 1699588100656,
+    "stop" : 1699588132387,
+    "duration" : 31731
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "36230fda636a3028",
+  "name" : "登录D5F7N18327001530",
+  "time" : {
+    "start" : 1699588100280,
+    "stop" : 1699588128931,
+    "duration" : 28651
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "b813897f280ba1b3",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699514399535,
+    "stop" : 1699514399535,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7e0d714d4a5a7d56",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501411655,
+    "stop" : 1699501411655,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c1775e8b3d2b4339",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699506723295,
+    "stop" : 1699506723295,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "665aa4a41ad438f1",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699517971657,
+    "stop" : 1699517971657,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "62b7e23b7098758d",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699523454080,
+    "stop" : 1699523454080,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d1db99efb418bb5a",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699511199086,
+    "stop" : 1699511199086,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2b9467bdffcd3fd5",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699529322425,
+    "stop" : 1699529322425,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5f5a333e11c30ff2",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697643045526,
+    "stop" : 1697643045526,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "769a09b3335db23a",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501553374,
+    "stop" : 1699501553374,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5761d2e80e6a9af8",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699511921030,
+    "stop" : 1699511921030,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1ca2638b8f863a17",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699531984436,
+    "stop" : 1699531984436,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "9160abd61c3df39",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699502357364,
+    "stop" : 1699502357364,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2d6e6f51ae735b5b",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699518047048,
+    "stop" : 1699518047048,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3b908dcc44cc6cb3",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699518165546,
+    "stop" : 1699518165546,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "928bd6fb483529e0",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697705449952,
+    "stop" : 1697705483870,
+    "duration" : 33918
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "692c3fea337e9113",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501580059,
+    "stop" : 1699501580059,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1f52377747a895ce",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699534314581,
+    "stop" : 1699534314581,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ceacccff68b07812",
+  "name" : "登录T9Y0221C09002076",
+  "time" : {
+    "start" : 1699540177728,
+    "stop" : 1699540294157,
+    "duration" : 116429
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "be5fa739a5d49778",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704891637,
+    "stop" : 1697705053689,
+    "duration" : 162052
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "79660f948225c2ed",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697705610118,
+    "stop" : 1697705646660,
+    "duration" : 36542
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "82aeb6541cf17fcb",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697642125166,
+    "stop" : 1697642125166,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "933d5bf7213df83e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699531793574,
+    "stop" : 1699531793574,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "70a1d01556b6cf3e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699514510711,
+    "stop" : 1699514510711,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6627aa6684c08be6",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699523485981,
+    "stop" : 1699523485981,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7ca36dadce44af22",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699502040847,
+    "stop" : 1699502040847,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ac9960cc86929a89",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699506676277,
+    "stop" : 1699506676277,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "141be90ad4abfee5",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699541211745,
+    "stop" : 1699541211745,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "cc80d27637eebf7",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699541049793,
+    "stop" : 1699541049793,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b4b68bcdb684135a",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699531838384,
+    "stop" : 1699531838384,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "abed404879a29460",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699586191570,
+    "stop" : 1699586191570,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "21b49d1c12f3f5a6",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704143611,
+    "stop" : 1697704163966,
+    "duration" : 20355
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "423d2c593841328c",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514412999,
+    "stop" : 1699514412999,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "4b3287c796335b63",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699541040232,
+    "stop" : 1699541040232,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "143d142333b5691f",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699539457962,
+    "stop" : 1699539457962,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d26c91fd47f8aef2",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699534363431,
+    "stop" : 1699534363431,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d7683edf5526fefe",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699518152977,
+    "stop" : 1699518152977,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a6c46b262a41ec7f",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514315162,
+    "stop" : 1699514315162,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6d11671bcafec6ab",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699531659092,
+    "stop" : 1699531659092,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e463a3bb03bbc852",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699526960846,
+    "stop" : 1699526960846,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c781744e0e9afbf6",
+  "name" : "首页上滑D5F0218710007612",
+  "time" : {
+    "start" : 1699587927000,
+    "stop" : 1699587953423,
+    "duration" : 26423
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9e72c4657d8a4819",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1698074084823,
+    "stop" : 1698074106701,
+    "duration" : 21878
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "31fc651fa4176651",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501493954,
+    "stop" : 1699501493954,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "653f9c1b089e3248",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699511190506,
+    "stop" : 1699511190506,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "16b6d5027499971",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699516545571,
+    "stop" : 1699516545571,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e69d0cd022cd171b",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699541011683,
+    "stop" : 1699541011683,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ab13637138dbdd7e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699510691003,
+    "stop" : 1699510691003,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b87dd1098c516e9f",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699530063732,
+    "stop" : 1699530063732,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1dcefe2fdcd3cca7",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699586265982,
+    "stop" : 1699586265982,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1d9313adf9a05873",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699532276091,
+    "stop" : 1699532276091,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5e2123c1bfdb227d",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699509803965,
+    "stop" : 1699509803965,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "39a737331c9951bf",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699518655787,
+    "stop" : 1699518655787,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7861d70ef631e77b",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699533881306,
+    "stop" : 1699533881306,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "34f05d6cd568429b",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697697693892,
+    "stop" : 1697697710228,
+    "duration" : 16336
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "8a241cf9d29e3b1b",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699531890796,
+    "stop" : 1699531890796,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "626d0b984f38ee6c",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699534372024,
+    "stop" : 1699534372024,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "36ef5270fa88ddc2",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699534232624,
+    "stop" : 1699534232624,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "224b72cf069a61ce",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697696389179,
+    "stop" : 1697696420301,
+    "duration" : 31122
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d5fdd88fc20b6a78",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699510467301,
+    "stop" : 1699510467301,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "888e3780831bc0df",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699539512629,
+    "stop" : 1699539512629,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ce2e2fe99bb8d679",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699534222317,
+    "stop" : 1699534222317,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1e58321a938e87b1",
+  "name" : "首页上滑T9Y0221C09002076",
+  "time" : {
+    "start" : 1698074062690,
+    "stop" : 1698074069951,
+    "duration" : 7261
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "51d6af87303e22d6",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699522694787,
+    "stop" : 1699522694787,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e095734d6d77fa5f",
+  "name" : "首页上滑D5F0218710007612",
+  "time" : {
+    "start" : 1699587763899,
+    "stop" : 1699587776652,
+    "duration" : 12753
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "75dc3fb1b9b1211b",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699535095661,
+    "stop" : 1699535095661,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "29a7fc0e55fa6a10",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699512495725,
+    "stop" : 1699512495725,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "99ea48e428487007",
+  "name" : "首页上滑D5F7N18327001530",
+  "time" : {
+    "start" : 1699587926762,
+    "stop" : 1699587955306,
+    "duration" : 28544
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f4ad23c29fba1917",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699502067526,
+    "stop" : 1699502067526,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f92a9058f201f557",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699531847460,
+    "stop" : 1699531847460,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c6ce650b7fecf0",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697705431456,
+    "stop" : 1697705449943,
+    "duration" : 18487
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "512757f96f18113a",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699510058711,
+    "stop" : 1699510058711,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7b8b11ae31d59913",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699518482711,
+    "stop" : 1699518482711,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "80c97d26964d20fd",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699533871012,
+    "stop" : 1699533871012,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "166017349a439e9f",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501240044,
+    "stop" : 1699501240044,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "41aeb0b037b4da63",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501324275,
+    "stop" : 1699501324275,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b6fc88c0fbed6a8f",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501440219,
+    "stop" : 1699501440219,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a1d09817bb156f75",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699502329965,
+    "stop" : 1699502329965,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "90d41dd7e56c171e",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501553381,
+    "stop" : 1699501553381,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "961d624b54777f25",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699532244557,
+    "stop" : 1699532244557,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a4508a089a7c9bc2",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699526952667,
+    "stop" : 1699526952667,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "52032d77f1a90b26",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699515718411,
+    "stop" : 1699515718411,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5ca3c0f8db98ee01",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697642408201,
+    "stop" : 1697642408201,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "91eda9e07ac26f16",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697642977507,
+    "stop" : 1697642977507,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c9690fa04ca9c4af",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699513043185,
+    "stop" : 1699513043186,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "591fa0937b2b0c8f",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699527977868,
+    "stop" : 1699527977868,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6b67eda71b66e854",
+  "name" : "登录T9Y0221C09002076",
+  "time" : {
+    "start" : 1699540374441,
+    "stop" : 1699540464268,
+    "duration" : 89827
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9b47e51d12bcfc5d",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514272865,
+    "stop" : 1699514272865,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3e272418b1842d4e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699522995671,
+    "stop" : 1699522995671,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "8c56568dc97799f3",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699532432650,
+    "stop" : 1699532432650,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b085b7a1951140ed",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699515692980,
+    "stop" : 1699515692980,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "758865bd98bc66e2",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699586316336,
+    "stop" : 1699586316336,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7123a44ab4d3155b",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699539620455,
+    "stop" : 1699539620455,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "afb8f1960c588206",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699515369976,
+    "stop" : 1699515369976,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "65562b0ac5e9d389",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699541003714,
+    "stop" : 1699541003714,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "29c060e7de787e37",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699535300950,
+    "stop" : 1699535300950,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "4d97650af747c89b",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501411655,
+    "stop" : 1699501411655,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5357ee58a5ea42ea",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501375323,
+    "stop" : 1699501375323,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1a584936c5cc445e",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699531649851,
+    "stop" : 1699531649851,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "83d3d68c95db7269",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699527965184,
+    "stop" : 1699527965184,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b53869540bf8bab",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699514880516,
+    "stop" : 1699514880516,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e6ca77e2e73bf188",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699515022606,
+    "stop" : 1699515022606,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "43a91bd08e3a3e8",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501114916,
+    "stop" : 1699501114916,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "9d30eda180592d9f",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699512627787,
+    "stop" : 1699512627787,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "450789242740f9fe",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699510680506,
+    "stop" : 1699510680506,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c4a795bb567f99fc",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699509628283,
+    "stop" : 1699509628283,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "303b0f887e04937b",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501580021,
+    "stop" : 1699501580021,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3e319bbf74708d7e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699526811340,
+    "stop" : 1699526811340,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ef04fb5dd1afb357",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699519014417,
+    "stop" : 1699519014417,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "bc94f8a9b924456e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699515413932,
+    "stop" : 1699515413932,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "698d76741d93bd47",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699532201134,
+    "stop" : 1699532201134,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "249907f622167e98",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699526916520,
+    "stop" : 1699526916520,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "45ca4dd4ee33e794",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699539388827,
+    "stop" : 1699539388827,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "264c71f10f6d1faf",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699532366229,
+    "stop" : 1699532366229,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "22047730d6114e5f",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697639881289,
+    "stop" : 1697639881289,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f68c0cb908622127",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699541160613,
+    "stop" : 1699541160613,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a5c1cd8d563bec",
+  "name" : "首页上滑D5F7N18327001530",
+  "time" : {
+    "start" : 1699588072228,
+    "stop" : 1699588100271,
+    "duration" : 28043
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "8084f9b31da0cf74",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697639545688,
+    "stop" : 1697639545688,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "46c3f12ff3f7b262",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699509724622,
+    "stop" : 1699509724622,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ae26a94e03834b63",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704729159,
+    "stop" : 1697704764855,
+    "duration" : 35696
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "5b1528aee2eab96e",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699502040847,
+    "stop" : 1699502040847,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ad0335564c8bde75",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699539016211,
+    "stop" : 1699539016211,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "987911d9d646015e",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704872341,
+    "stop" : 1697704891621,
+    "duration" : 19280
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "379d90004be7d33",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514764288,
+    "stop" : 1699514764288,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "23c586a4828fdbe",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697641553768,
+    "stop" : 1697641553768,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "98706836186cb411",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699515633273,
+    "stop" : 1699515633273,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "567aca6d4a895260",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699513054227,
+    "stop" : 1699513054227,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a1cd8e085fc04acf",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699512725378,
+    "stop" : 1699512725378,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "26c6c35ea62fe3c6",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697643174549,
+    "stop" : 1697643191205,
+    "duration" : 16656
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "e21a5663eaeb8c9a",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704710758,
+    "stop" : 1697704729148,
+    "duration" : 18390
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "6edfbdf6ece11d31",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699532355889,
+    "stop" : 1699532355889,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "fdbba1e2fb85cc6b",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699586248151,
+    "stop" : 1699586248151,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "fa49123cef85c8c2",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514365592,
+    "stop" : 1699514365592,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f57b4126ad606eaa",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699502067509,
+    "stop" : 1699502067509,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a8ba24c7293420a0",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699541199078,
+    "stop" : 1699541199078,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "78136a5077bf3bb6",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699532284194,
+    "stop" : 1699532284194,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c5e02809d255255e",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501422550,
+    "stop" : 1699501422550,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1d74dc24cf24cbb7",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699534289339,
+    "stop" : 1699534289339,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "209d59ab3bc7bc1d",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699527026134,
+    "stop" : 1699527026134,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2daea071d7e277c2",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699529188921,
+    "stop" : 1699529188921,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "34ad6f45243f4a15",
+  "name" : "登录D5F0218710007612",
+  "time" : {
+    "start" : 1699587953429,
+    "stop" : 1699587984003,
+    "duration" : 30574
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "125da34fd89a1778",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699539611170,
+    "stop" : 1699539611170,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "aba7b97aa9dfb223",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699518094598,
+    "stop" : 1699518094598,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "11e137f1da0605bd",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699531266059,
+    "stop" : 1699531266059,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "edb134bda620d1c",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699531785400,
+    "stop" : 1699531785400,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "65233531811ad0ba",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699531730623,
+    "stop" : 1699531730623,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e7ec5670546cab86",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699586332018,
+    "stop" : 1699586332018,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d4585ef7d3ef7644",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699523443567,
+    "stop" : 1699523443567,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c606ae592d5e6d17",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699518758143,
+    "stop" : 1699518758143,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c8f2f1a1af555399",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704476359,
+    "stop" : 1697704512176,
+    "duration" : 35817
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "dc0fbee28ebdd0ca",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699535026712,
+    "stop" : 1699535026712,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c70a3393d2483cc7",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699529242999,
+    "stop" : 1699529242999,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2f883070d08e0420",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699529784279,
+    "stop" : 1699529784279,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "31fb7b251b0b03e",
+  "name" : "首页上滑T9Y0221C09002076",
+  "time" : {
+    "start" : 1699540163850,
+    "stop" : 1699540177718,
+    "duration" : 13868
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "cbd1c7f563bc3484",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699539511610,
+    "stop" : 1699539511610,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "cf49b85289920f81",
+  "name" : "首页上滑D5F7N18327001530",
+  "time" : {
+    "start" : 1699586440784,
+    "stop" : 1699586466668,
+    "duration" : 25884
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4f0c880d753efa6c",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699523477585,
+    "stop" : 1699523477585,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "62dc0dff68ec0ef8",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501324275,
+    "stop" : 1699501324275,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "90af157ba3839d5b",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697640867779,
+    "stop" : 1697640867779,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "aecbd11d14ae4e5d",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699518386858,
+    "stop" : 1699518386858,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6adb59d70caa4084",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699528205713,
+    "stop" : 1699528205713,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ae3792c770c3f102",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697642585104,
+    "stop" : 1697642585104,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3589cb1325f409c0",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697696366903,
+    "stop" : 1697696389163,
+    "duration" : 22260
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "72287cfa82afeb07",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699539005556,
+    "stop" : 1699539005556,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a7f9a6639cca8045",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699539467066,
+    "stop" : 1699539467066,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "508251a1d61aa2d5",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699535156220,
+    "stop" : 1699535156220,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "fb23f62b50f5b5ad",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699515704117,
+    "stop" : 1699515704117,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "448d3e283e44d517",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704460867,
+    "stop" : 1697704476348,
+    "duration" : 15481
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "b7fadd5b0db58580",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514850545,
+    "stop" : 1699514850545,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d52a6eda1489bac0",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699528131494,
+    "stop" : 1699528131494,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "78d14f8ac9f97dd9",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501421345,
+    "stop" : 1699501421345,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "279800f9e8bf38c5",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699526837156,
+    "stop" : 1699526837156,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "760eccd7678701c2",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699532235351,
+    "stop" : 1699532235351,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e062f576a9107ef0",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699506703853,
+    "stop" : 1699506703853,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "fb1a67e0600671a9",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697643191220,
+    "stop" : 1697643222755,
+    "duration" : 31535
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b367637bde40c273",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697639880460,
+    "stop" : 1697639880460,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d8d872eb1745458c",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699532422356,
+    "stop" : 1699532422356,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "edf00ede9f479bb0",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699529873205,
+    "stop" : 1699529873205,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "4d7641c3dcddec85",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699526801912,
+    "stop" : 1699526801912,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "675dfa28b0d76df8",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501449232,
+    "stop" : 1699501449232,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "817fec4406fcb871",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699511929978,
+    "stop" : 1699511929978,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "bd21435783030f61",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699535104767,
+    "stop" : 1699535104767,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e420337a4121942a",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699532193183,
+    "stop" : 1699532193183,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f627fb47aa1a64fb",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699506750032,
+    "stop" : 1699506750032,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b30cc15b25e21b48",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699516532042,
+    "stop" : 1699516532042,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "9f92212c985b391b",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699512534300,
+    "stop" : 1699512534300,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "9b6c806bc935c976",
+  "name" : "首页上滑T9Y0221C09002076",
+  "time" : {
+    "start" : 1699540348196,
+    "stop" : 1699540374433,
+    "duration" : 26237
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "989470b17e97790a",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699510434130,
+    "stop" : 1699510434130,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f07e354a8cd2772e",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699515263598,
+    "stop" : 1699515263598,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b7da5535da470528",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697643362685,
+    "stop" : 1697643394734,
+    "duration" : 32049
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "8c696ba7a11638bb",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699531697703,
+    "stop" : 1699531697703,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7cff439b4030845d",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699535207527,
+    "stop" : 1699535207527,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c8e552ce913882ed",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501114916,
+    "stop" : 1699501114916,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "4dcd7473ae06ab97",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501185139,
+    "stop" : 1699501185139,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a5ba40bc0e461e53",
+  "name" : "首页上滑D5F0218710007612",
+  "time" : {
+    "start" : 1699588072600,
+    "stop" : 1699588100645,
+    "duration" : 28045
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "6c8f90fe352b961e",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699514924823,
+    "stop" : 1699514924823,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b7fe5185cf28a51c",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697704163972,
+    "stop" : 1697704326737,
+    "duration" : 162765
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c726128c4dbe5077",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501440220,
+    "stop" : 1699501440220,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6a549528749e67b2",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699532567958,
+    "stop" : 1699532567958,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "c3f2decf4c45a73",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699526827741,
+    "stop" : 1699526827741,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5966d54fa2c79fa9",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1697640868717,
+    "stop" : 1697640868717,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "fbdfe856ffe7ccf1",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699502329964,
+    "stop" : 1699502329964,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ab3172fe16c40812",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699518069833,
+    "stop" : 1699518069833,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3e68e0d05736eccd",
+  "name" : "登录D5F7N18327001530",
+  "time" : {
+    "start" : 1699586466678,
+    "stop" : 1699586495850,
+    "duration" : 29172
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "bce1c6ea0cd04fad",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699501493954,
+    "stop" : 1699501493954,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "1c143ede4fa7f811",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699510369726,
+    "stop" : 1699510369726,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "6e99168b6f2c03f5",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699532559689,
+    "stop" : 1699532559689,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f519a5eec72e9a61",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501520630,
+    "stop" : 1699501520630,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b0c358d569311786",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697705592907,
+    "stop" : 1697705610106,
+    "duration" : 17199
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "5cc8e42c55097b48",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699510424048,
+    "stop" : 1699510424048,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "eca5127cfba29a85",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699541070040,
+    "stop" : 1699541070040,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "a7b77f252756b7a7",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697642976685,
+    "stop" : 1697642976685,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "8ef71b12344c675c",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699518768884,
+    "stop" : 1699518768884,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "52c07343586513aa",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699535165504,
+    "stop" : 1699535165504,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "eeb5db835c9fe1d0",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699541083578,
+    "stop" : 1699541083578,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "f07cbbb3fdbb45a2",
+  "name" : "登录T9Y0221C09002076",
+  "time" : {
+    "start" : 1698074069960,
+    "stop" : 1698074165429,
+    "duration" : 95469
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b440897d7946257e",
+  "name" : "首页上滑127.0.0.1:62001",
+  "time" : {
+    "start" : 1697643345206,
+    "stop" : 1697643362673,
+    "duration" : 17467
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "dda4ab1aff002c90",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699586216935,
+    "stop" : 1699586216935,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2e8bc87af8cbf592",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699514299138,
+    "stop" : 1699514299138,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "34f50643cf6f047d",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699541175219,
+    "stop" : 1699541175219,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ed95c2b45376cc42",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699509674038,
+    "stop" : 1699509674038,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "56819532c752eeb8",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501466799,
+    "stop" : 1699501466799,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "313ddd8d829f5fa4",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699529160474,
+    "stop" : 1699529160474,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "969b3404dc6fd904",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699527010101,
+    "stop" : 1699527010101,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "8a88bd4baaecc29b",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699527045272,
+    "stop" : 1699527045272,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "7c06943c3a68a1b6",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699533978967,
+    "stop" : 1699533978968,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "2f15f7ac96794198",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1697641498799,
+    "stop" : 1697641498799,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "b1a1d3b00f3209bf",
+  "name" : "登录T9Y0221C09002076",
+  "time" : {
+    "start" : 1699540522257,
+    "stop" : 1699540612618,
+    "duration" : 90361
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2737e6582247e6c0",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699531741054,
+    "stop" : 1699531741054,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "d2e7db497f08c024",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699501503580,
+    "stop" : 1699501503580,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "86aeae2c940713a7",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699539379705,
+    "stop" : 1699539379705,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "5fb4553372512fde",
+  "name" : "登录127.0.0.1:62001",
+  "time" : {
+    "start" : 1697697710242,
+    "stop" : 1697697747944,
+    "duration" : 37702
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4dbb3854c277bca7",
+  "name" : "test_swipe",
+  "time" : {
+    "start" : 1699526887798,
+    "stop" : 1699526887798,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "3e49b3d6d55bc88",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1699514782378,
+    "stop" : 1699514782378,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+} ]

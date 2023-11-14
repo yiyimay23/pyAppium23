@@ -1,0 +1,5 @@
+platformName: Android
+newCommonTimeout: 500
+noReset: True
+automationName: appium
+skipServerInstallation: True

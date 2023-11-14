@@ -1,0 +1,1 @@
+INFO     root:app_info.py:40 ['']
